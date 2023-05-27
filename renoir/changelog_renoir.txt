@@ -1,0 +1,8 @@
+- Bump up kernel to tailwind v1.1 rc3
+- Bump up kernel su to 10902
+- Disable more debug related configs
+- File system and IO Scheduler improvements
+- More power save optimizations
+- Bring back DC Dimming
+- Switch to Pixel PowerHAL and tuned
+- Provide more stable auto brightness
